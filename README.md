@@ -11,4 +11,5 @@ Brainstorming: Link[https://projects.invisionapp.com/freehand/document/bx1dFIwA]
 ### Objectives
 ### Usage
 ### References
-https://www.freetrainers.com/exercise/muscle/
+- Express tutorial: https://www.tutorialspoint.com/expressjs/expressjs_hello_world.htm
+- Reference website: https://www.freetrainers.com/exercise/muscle/
